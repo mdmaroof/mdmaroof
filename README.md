@@ -48,15 +48,40 @@ I mainly work with **React, React Native, Next.js, TypeScript, and JavaScript**,
 
 ## ✨ Selected Projects
 
-### 🩺 SnapAid
+### 🩺 [SnapAid](https://www.snapaid.live/)
 
 AI-powered first-aid guidance application built with **Next.js** and LLM APIs.
 
-### 🚕 Taxi Day Tracker
+**Tech:** Next.js · React · LLM APIs · AI
 
-Interactive NYC taxi simulation with real road movement, live trip telemetry, navigation, camera modes, and route history.
+---
+
+### 🚕 [Taxi Day Tracker](https://live-tracking-sigma.vercel.app/)
+
+Interactive NYC taxi simulation with real road movement, live trip telemetry, navigation, multiple camera modes, and route history.
 
 **Tech:** JavaScript · Mapbox GL JS · Turf.js · Vite
+
+---
+
+### 🔤 [Twist 'n' Words](https://twistnwords.vercel.app/)
+
+A fast-paced word puzzle game where players unscramble letters to build the correct word while managing limited lives.
+
+Includes offline installation support for a lightweight app-like experience.
+
+**Tech:** JavaScript · Web · PWA
+
+---
+
+### 🎶 [Band Baja](https://band-baja.vercel.app/)
+
+A playful Indian wedding music experience built around a handpicked collection of **baraat and shaadi anthems**.
+
+Designed as a simple, focused music player with a strong visual identity and instant playback experience.
+
+**Tech:** JavaScript · YouTube · Web Audio · Responsive UI
+
 
 
 ---
@@ -75,9 +100,9 @@ A customizable React Native time picker component designed for clean mobile inte
 
 ## 📊 GitHub Stats
 
-![Maroof's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdmaroof\&show_icons=true\&hide_border=true)
+[![Maroof's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdmaroof&show_icons=true&hide_border=true)](https://github.com/mdmaroof)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmaroof\&layout=compact\&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmaroof&layout=compact&hide_border=true)](https://github.com/mdmaroof?tab=repositories)
 
 ---
 
