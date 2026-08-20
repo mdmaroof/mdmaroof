@@ -88,11 +88,6 @@ A customizable React Native time picker component designed for clean mobile inte
 
 ---
 
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mdmaroof\&hide_border=true)
-
----
 
 ## 🤝 Connect
 
