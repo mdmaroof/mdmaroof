@@ -96,13 +96,6 @@ Published:
 
 A customizable React Native time picker component designed for clean mobile interfaces.
 
----
-
-## 📊 GitHub Stats
-
-[![Maroof's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdmaroof&show_icons=true&hide_border=true)](https://github.com/mdmaroof)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmaroof&layout=compact&hide_border=true)](https://github.com/mdmaroof?tab=repositories)
 
 ---
 
