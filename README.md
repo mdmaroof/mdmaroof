@@ -58,13 +58,6 @@ Interactive NYC taxi simulation with real road movement, live trip telemetry, na
 
 **Tech:** JavaScript · Mapbox GL JS · Turf.js · Vite
 
-### 🧠 Stock Market ML
-
-Machine-learning experiments for Indian equities using historical market data, technical indicators, XGBoost, and walk-forward backtesting.
-
-### 🏥 Curais
-
-Building a health-tech brand focused on creating calm, reliable, and intelligent healthcare experiences.
 
 ---
 
